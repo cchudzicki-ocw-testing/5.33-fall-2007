@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course lab experiments and a
+  warning notice on potential hazards.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
